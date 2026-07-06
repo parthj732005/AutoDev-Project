@@ -1,5 +1,11 @@
 # AutoDev 2.0 — Multi-Agent AI Software Engineering Platform
 
+![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+![CI](https://github.com/parthj732005/AutoDev-Project/actions/workflows/ci.yml/badge.svg)
+
 AutoDev turns a plain-English project description into a scaffolded full-stack
 codebase. A prompt like *"Build a URL shortener with Docker support"* is run
 through a pipeline of specialized AI agents — Planner, Database, Backend,
